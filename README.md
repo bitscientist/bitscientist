@@ -1,2 +1,2 @@
-# Bitscientist repos
-Hopefully provide some useful code.
+# Bitscientist
+Hopefully create some useful code.
